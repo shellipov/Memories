@@ -5,22 +5,24 @@
 Приложении для структирирования фотографий. Можно добавлять события, привязываь их к месту на карте, оставлять комментарии о событии или фотографии.
 
 
-### Ссылка на приложения:
-> https://shellipov.github.io/memories_front
+### [Ссылка на приложение](https://shellipov.github.io/memories_front)
+
+>[front-end repository](https://github.com/shellipov/memories_front)
+>[back-end repository](https://github.com/shellipov/memories_back)
 
 #### Карта с воспоминаниями:
+  Можно выбрать воспоминание на карте или выбрать из списка.
+  Появится диалоговое окно, в котором можно просмотреть событие или перейти на страницу для его подробного просмотра и редактирования
 
 ![screenshot](readme-assets/screen_1.gif)
 
-#### Добавления воспоминания:
+#### Добавление:
+
+  На карте нужно поставить точку, справа появится диалоговое окно дя создания события.
+  Фотографии можно добавить на странице данного событя
 
 ![screenshot](readme-assets/screen_2.gif)
-#### Рерактирование воспоминания:
+#### Рерактирование:
 
-![screenshot](readme-assets/screen_2.gif)
-
-### front-end repository: 
-> https://github.com/shellipov/memories_front
-
-### back-end repository: 
-> https://github.com/shellipov/memories_back
+![screenshot](readme-assets/screen_3.gif)
+  Можно оставить свои мысли и воспоминания о событии в целом или отдельной фотографии
