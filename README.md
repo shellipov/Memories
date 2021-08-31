@@ -21,7 +21,7 @@
 
 #### Добавления воспоминания:
 
-![screenshot](eadme-assets/screen_2.gif)
+![screenshot](readme-assets/screen_2.gif)
 #### Рерактирование воспоминания:
 
-![screenshot](eadme-assets/screen_2.gif)
+![screenshot](readme-assets/screen_2.gif)
