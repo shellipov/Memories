@@ -17,7 +17,7 @@
 ![screenshot](readme-assets/screen_2.gif)
 #### Рерактирование воспоминания:
 
-![screenshot](eadme-assets/screen_2.gif)
+![screenshot](readme-assets/screen_2.gif)
 
 ### front-end repository: 
 > https://github.com/shellipov/memories_front
