@@ -2,16 +2,16 @@
 
 ## Дневник и фотобанк
 
+### [Ссылка на приложение](https://shellipov.github.io/memories_front)
+
 Приложении для структирирования фотографий. Можно добавлять события, привязываь их к месту на карте, оставлять комментарии о событии или фотографии.
 
 
-### [Ссылка на приложение](https://shellipov.github.io/memories_front)
 
 Ссылки на репозитории:
 
 >[front-end repository](https://github.com/shellipov/memories_front) 
 
-/
 
 >[back-end repository](https://github.com/shellipov/memories_back)
 
