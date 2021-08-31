@@ -7,7 +7,12 @@
 
 ### [Ссылка на приложение](https://shellipov.github.io/memories_front)
 
->[front-end repository](https://github.com/shellipov/memories_front)
+Ссылки на репозитории:
+
+>[front-end repository](https://github.com/shellipov/memories_front) 
+
+/
+
 >[back-end repository](https://github.com/shellipov/memories_back)
 
 #### Карта с воспоминаниями:
@@ -20,7 +25,7 @@
 
   На карте нужно поставить точку, справа появится диалоговое окно дя создания события.
   Фотографии можно добавить на странице данного событя
-  
+
 ![screenshot](readme-assets/screen_2.gif)
 
 #### Рерактирование:
