@@ -1,0 +1,12 @@
+{
+  "name": "memories",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start-back": "cd memories_back && yarn start",
+    "start-front": "cd memories_front && yarn start"
+  },
+  "author": "",
+  "license": "ISC"
+}
